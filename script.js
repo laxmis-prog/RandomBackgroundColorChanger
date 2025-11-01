@@ -1,7 +1,7 @@
 const darkColorsArr = [
   "#2C3E50",
   "#34495E",
-  "#2C2C2C",    
+  "#2C2C2C",
   "#616A6B",
   "#4A235A",
   "#2F4F4F",
@@ -12,6 +12,6 @@ const darkColorsArr = [
 ];
 
 function getRandomIndex() {
-  console.log(darkColorsArr.length * Math.random())
+  console.log(Math.floor(darkColorsArr.length * Math.random()));
 }
-getRandomIndex ();
+getRandomIndex();
