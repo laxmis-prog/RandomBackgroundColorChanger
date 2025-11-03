@@ -1,0 +1,1 @@
+This is a RandomBackgroundColorChanger project I created as part of the FreeCodeCamp JavaScript Algorithms and Data Structures curriculum. In this project I learnt about debugging process, finding any issues and fixing them. 
